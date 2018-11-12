@@ -61,7 +61,7 @@ class BooksApp extends React.Component {
   }
 
   render() {
-    const {query, books } = this.state
+    const {query } = this.state
     return (
       <div className="app">
 
